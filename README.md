@@ -55,13 +55,13 @@ NeuroChat-AI/
 ├── templates/
 │   └── base.html
 │
-├── app.py            # Flask backend (API)
-├── chat.py           # Chat logic (prediction + response)
-├── model.py          # Neural network architecture
-├── train.py          # Training pipeline
-├── nltk_utils.py     # NLP preprocessing
-├── intents.json      # Training data (intents & responses)
-├── data.pth          # Trained model (generated)
+├── app.py            
+├── chat.py           
+├── model.py          
+├── train.py          
+├── nltk_utils.py    
+├── intents.json      
+├── data.pth          
 ├── LICENSE
 ## Model Architecture
 
