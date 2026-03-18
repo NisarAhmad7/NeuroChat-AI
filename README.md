@@ -41,16 +41,16 @@ Response Selection
 Matches predicted tag with responses from `intents.json`
 
 ## Project Structure
-NeuroChat AI/
+NeuroChat-AI/
 │
 ├── static/
 │   ├── images/
-│     ├── app.js
-│     ├── style.css
-|     ├── Resluts/
-|       ├──R1
-|       ├──R2
-|       ├──R3
+│   ├── app.js
+│   ├── style.css
+│   └── Results/
+│       ├── R1
+│       ├── R2
+│       └── R3
 │
 ├── templates/
 │   └── base.html
