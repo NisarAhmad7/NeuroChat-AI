@@ -44,10 +44,13 @@ Matches predicted tag with responses from `intents.json`
 NeuroChat-AI/
 │
 ├── static/
+|
 │   ├── images/
+|
 │   ├── app.js
 │   ├── style.css
 │   └── Results/
+|
 │       ├── R1
 │       ├── R2
 │       └── R3
